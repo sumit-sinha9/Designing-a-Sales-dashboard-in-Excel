@@ -1,5 +1,4 @@
 # Designing-a-Sales-dashboard-in-Excel
-Business Analytics With Excel
 -----------------------------------
 E-Commerce Sales Dashboard
 -----------------------------------
